@@ -68,18 +68,18 @@ Algoritmo tablas_de_multiplicar
 					Para i<-0 Hasta 10 Hacer
 					Escribir 10,'x',i,'=',i * 10
 					FinPara
-SiNo
-			  Si op=11 Entonces
-			  Escribir 'tabla del 11'
-			  Para i<-0 Hasta 10 Hacer
-			  Escribir 11,'x',i,'=',i * 11
-			  FinPara
+        SiNo
+			    Si op=11 Entonces
+			        Escribir 'tabla del 11'
+			        Para i<-0 Hasta 10 Hacer
+			        Escribir 11,'x',i,'=',i * 11
+			        FinPara
 		SiNo
-			Si op=12 Entonces
-				Escribir 'tabla del 12'
-				Para i<-0 Hasta 10 Hacer
-				Escribir 12,'x',i,'=',i * 12
-				FinPara
+			    Si op=12 Entonces
+				    Escribir 'tabla del 12'
+				    Para i<-0 Hasta 10 Hacer
+				    Escribir 12,'x',i,'=',i * 12
+				    FinPara
 		SiNo
 				Si op=13 Entonces
 					Escribir 'tabla del 13'
@@ -123,7 +123,7 @@ SiNo
 					Para i<-0 Hasta 10 Hacer
 					Escribir 19,'x',i,'=',i * 19
 					FinPara
-SiNo
+        SiNo
 			    Si op=20 Entonces
 					Escribir 'tabla del 20'
 					Para i<-0 Hasta 10 Hacer
@@ -132,25 +132,25 @@ SiNo
 
 													
 FinSi
-	FinSi
-	 FinSi
 FinSi
 FinSi
 FinSi
 FinSi
- FinSi
- FinSi
- FinSi
- FinSi
- FinSi
-	 FinSi
-   FinSi
-		FinSi
-		 FinSi
-		  FinSi
-	FinSi
-	         FinSi
-		       FinSi
+FinSi
+FinSi
+FinSi
+FinSi
+FinSi
+FinSi
+FinSi
+FinSi
+FinSi
+FinSi
+FinSi
+FinSi
+FinSi
+FinSi
+FinSi
 		
 		
 			
